@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Alien Wonderland";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'Alien Wonderland is an independently created collection of 10,000 NFTs. The collection features particulars of a technologically advanced higher-dimmensional species.';
+const welcome_p = 'Alien Wonderland is an independently created, randomly generated collection of 10,000 unique alien NFTs.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon";
 const h1_presale_mint = "Pre-Sale Minting Open";
 const h1_public_mint = "Public Minting Open";
